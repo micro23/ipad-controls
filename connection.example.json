@@ -1,0 +1,7 @@
+{
+  "host": "10.71.0.1",
+  "port": 2222,
+  "user": "tablet",
+  "identityFile": "/absolute/path/to/your/dedicated_ssh_key",
+  "knownHosts": "/absolute/path/to/your/verified_known_hosts"
+}

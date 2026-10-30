@@ -1,0 +1,11 @@
+.DS_Store
+build/
+dist/
+__pycache__/
+*.pyc
+connection.json
+known_hosts
+owner_ed25519
+*.pem
+*.key
+private*/
