@@ -14,6 +14,10 @@ This is useful after bringing up Omarchy on an iPad when native touch or a direc
 - **System info** opens Omarchy's About window on the iPad when the tested adapter is available.
 - Temporary Linux input devices disappear when the SSH session ends.
 
+![iPad Controls connected over USB, with mouse and keyboard control pad](docs/ipad-controls.png)
+
+*The app connected to a running iPad desktop over USB. Connection details stay local.*
+
 ## Requirements and scope
 
 - macOS 13 or later; the downloadable build is for Apple silicon. Build from source on Intel for a native Intel app (untested).
